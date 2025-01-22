@@ -1,0 +1,5 @@
+2025-01-22 15:18:59,151 - INFO - Database connection established.
+2025-01-22 15:22:50,997 - INFO - Database connection established.
+2025-01-22 15:22:51,000 - INFO - Database table verified/created successfully.
+2025-01-22 15:22:51,016 - INFO - Processed a chunk with 10 records.
+2025-01-22 15:22:51,016 - INFO - Database connection closed.
