@@ -3,3 +3,36 @@
 2025-01-22 15:22:51,000 - INFO - Database table verified/created successfully.
 2025-01-22 15:22:51,016 - INFO - Processed a chunk with 10 records.
 2025-01-22 15:22:51,016 - INFO - Database connection closed.
+2025-01-22 15:53:13,480 - INFO - Database connection established.
+2025-01-22 15:53:13,481 - INFO - Database table verified/created successfully.
+2025-01-22 15:53:13,491 - INFO - Processed a chunk with 10 records.
+2025-01-22 15:53:13,491 - INFO - Database connection closed.
+2025-01-22 15:54:57,956 - INFO - Database connection established.
+2025-01-22 15:54:57,957 - INFO - Database table verified/created successfully.
+2025-01-22 15:54:57,988 - INFO - Processed a chunk with 30 records.
+2025-01-22 15:54:57,989 - INFO - Database connection closed.
+2025-01-22 15:57:38,204 - INFO - Database connection established.
+2025-01-22 15:57:50,373 - INFO - Database connection established.
+2025-01-22 15:57:50,374 - INFO - Database table verified/created successfully.
+2025-01-22 15:57:50,393 - INFO - Processed a chunk with 30 records.
+2025-01-22 15:57:50,394 - INFO - Database connection closed.
+2025-01-22 16:06:53,644 - INFO - Database connection established.
+2025-01-22 16:06:53,645 - INFO - Database table verified/created successfully.
+2025-01-22 16:06:53,659 - INFO - Processed a chunk with 30 records.
+2025-01-22 16:06:53,659 - INFO - Database connection closed.
+2025-01-22 16:06:56,502 - INFO - Database connection established.
+2025-01-22 16:06:56,503 - INFO - Database table verified/created successfully.
+2025-01-22 16:06:56,523 - INFO - Processed a chunk with 30 records.
+2025-01-22 16:06:56,523 - INFO - Database connection closed.
+2025-01-22 16:10:42,459 - INFO - Database connection established.
+2025-01-22 16:10:42,461 - INFO - Database table verified/created successfully.
+2025-01-22 16:10:42,469 - ERROR - Error processing CSV: list index out of range
+2025-01-22 16:10:42,469 - INFO - Database connection closed.
+2025-01-22 16:12:06,253 - INFO - Database connection established.
+2025-01-22 16:12:06,255 - INFO - Database table verified/created successfully.
+2025-01-22 16:12:06,282 - ERROR - Error processing CSV: list index out of range
+2025-01-22 16:12:06,282 - INFO - Database connection closed.
+2025-01-22 16:12:38,351 - INFO - Database connection established.
+2025-01-22 16:12:38,352 - INFO - Database table verified/created successfully.
+2025-01-22 16:12:38,365 - INFO - Processed a chunk with 31 records.
+2025-01-22 16:12:38,365 - INFO - Database connection closed.
