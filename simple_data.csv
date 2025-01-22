@@ -1,0 +1,11 @@
+id,name,email,city,status
+1,John Doe,john.doe@example.com,New York,active
+2,Jane Smith,jane.smith@example.com,Los Angeles,inactive
+3,Bob Johnson,bob.johnson@example.com,Chicago,active
+4,Alice Williams,alice.williams@example.com,Houston,inactive
+5,Michael Brown,michael.brown@example.com,Philadelphia,active
+6,Linda Davis,linda.davis@example.com,Phoenix,active
+7,William Martinez,william.martinez@example.com,San Antonio,inactive
+8,Elizabeth Garcia,elizabeth.garcia@example.com,San Diego,active
+9,David Rodriguez,david.rodriguez@example.com,Dallas,inactive
+10,Mary Wilson,mary.wilson@example.com,San Jose,active
